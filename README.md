@@ -7,3 +7,6 @@
 Some of my projects :
 - https://github.com/Wyyrthura/wyy_polybar | Manjaro Theme for Polybar
 - https://github.com/Wyyrthura/wyy_obsidian | Manjaro Theme for Obsidian
+
+# Ask me
+You can ask me to make a theme for your favorite soft, not sure if will be able to make it, but I will sure learn a lot of things !
