@@ -1,12 +1,12 @@
-# Hey ! How did you end up here ?
-- Currently working on a Manjaro Theme for VS Code
-- Learning HTML5, CSS, some Javascript and Typescript, and trying stuff with Angular
-- Making theme for whatever soft im using
-- I use arch btw (in facts i use Manjaro but ok)
+# Hey! How did you end up here?
+- I'm currently working on an EvE Online API for my buyback
+- CEO of The Bureau of The Crimson Star
+- Buyback Operator for Brave Collective
+- ETCS Vyynesia Founder and Director
+
+Blood for The Crimson Star!
 
 Some of my projects :
 - [wyy_polybar](https://github.com/Wyyrthura/wyy_polybar) | Manjaro Theme for Polybar
 - [wyy_obsidian](https://github.com/Wyyrthura/wyy_obsidian) | Manjaro Theme for Obsidian
 
-# Ask me
-You can ask me to make a theme for your favorite soft, not sure if I will be able to make it, but I will sure learn a lot of things !
